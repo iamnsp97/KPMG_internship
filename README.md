@@ -42,4 +42,4 @@ The final module focused on translating analytical findings into actionable insi
 
 ## Future Steps
 
-I am excited to apply the knowledge and skills acquired during this virtual internship to real-world scenarios. The experience gained in data quality assessment, insights generation, and effective presentation equips me for success in the field of data analytics and consulting.
+I am very excited to apply the knowledge and skills acquired during this virtual internship to real-world scenarios. The experience gained in data quality assessment, insights generation, and effective presentation equips me for success in the field of data analytics and consulting.
